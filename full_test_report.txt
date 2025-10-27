@@ -1,0 +1,17 @@
+Heading found: Discover Tourism Insights
+Heading found: Our Services
+Heading found: Tourist Attractions
+Heading found: Visitor Statistics
+Heading found: Regional Reports
+Heading found: Sustainability Insights
+Heading found: Login
+Heading found: Create Account
+Heading found: Dashboard
+Heading found: Total Arrivals
+Button 1 exists: Explore Dashboard
+Button 2 exists: Login
+Button 3 exists: Signup
+Link 1: None
+Link 2: None
+Link 3: #
+Link 4: #
